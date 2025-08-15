@@ -14,18 +14,10 @@ This project explores LSTM-based models enhanced with embedding strategies and c
 
 ## Usage
 Clone the repository:
-bash
-git clone (https://github.com/abdullahfasi/Stock-Price-Prediction/edit/master)
-cd Stock-Price-Prediction---Deep-Learning
-Choose a script:
 
-Run IndexEmbeddingLSTM.py or IndexEmbeddingLSTM_Improved.py to train baseline models.
+- **git clone (https://github.com/abdullahfasi/Stock-Price-Prediction/edit/master)
 
-Use Model_Comparison.py to evaluate model performance.
 
-Launch analysis.ipynb for interactive data exploration and visualization.
-
-Refer to Model_Improvement_Guide.md for hands-on optimization strategies.
 
 ##Why Try This?
 If you're exploring:
